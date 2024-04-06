@@ -1,5 +1,7 @@
-name's Taha 
-currently CS student 
+Hey, I'm Taha.
+
+Currently CS student. 
+
 Intrested in Web / Mobile apps developement , Ai and Video Games developement ..
 
 
